@@ -27,9 +27,9 @@ Handles unsupported file types gracefully:
 No files are stored on the server; processing happens in memory.
 
 ## Requirements
--Python 3.10+
--FastAPI
--MistralAI Python SDK
+- Python 3.10+
+- FastAPI
+- MistralAI Python SDK
 
 ## Installation
 * Clone the repository:
