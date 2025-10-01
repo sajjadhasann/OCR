@@ -34,8 +34,8 @@ No files are stored on the server; processing happens in memory.
 ## Installation
 * Clone the repository:
 ```bash
-git clone https://github.com/username/repo-name.git
-cd repo-name
+git clone https://github.com/sajjadhasann/OCR.git
+cd OCR
 ```
 
 * Create virtual environment:
